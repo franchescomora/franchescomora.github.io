@@ -24,4 +24,4 @@ Estan organizados del más reciente al más antiguo.
 
 8.[Instalando Git y clonando un repositorio en Ubuntu](/tutoriales/tutorial8/)
 
-[Artículo 1](/pdf/1.pdf)
+[Artículo enlazado](/pdf/1.pdf)
